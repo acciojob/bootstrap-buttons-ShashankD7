@@ -1,2 +1,17 @@
+.btn-light {
+   border: 1px solid black;
+}
 
-/* Your CSS Code here. */
+.btn-success {
+	height: 50px;
+}
+
+.btn-danger {
+	height: 35px;
+}
+
+.btn-warning {
+	width: 100%;
+	border: none;
+}
+	
